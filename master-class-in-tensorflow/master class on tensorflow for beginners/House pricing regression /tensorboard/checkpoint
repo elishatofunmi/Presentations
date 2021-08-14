@@ -1,0 +1,2 @@
+model_checkpoint_path: "house_reg2.h5"
+all_model_checkpoint_paths: "house_reg2.h5"
